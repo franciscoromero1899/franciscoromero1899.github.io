@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+   text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-top: lightblue 3px solid;
+    border-bottom: lightblue 3px solid;
+    font-style: oblique;
+  background-color: lightblue;
+  float: ;
+}
+
+h2#ExperienciaProfesional{
+    border-top: lightblue 3px solid;
+    border-bottom: lightblue 3px solid;
+
+}
+
+.PerfilesSociales{
+    border-top: lightblue 3px solid;
+    border-bottom: lightblue 3px solid;
+}
+
+#ExperienciaProfesional .PerfilesSociales {
+    color: black;
+}
+
+h2.Educacion{
+    border-top: lightblue 3px solid;
+    border-bottom: lightblue 3px solid;
+
+}
+
+div h2 {
+    border-top: lightblue 3px solid;
+    border-bottom: lightblue 3px solid;
+}
